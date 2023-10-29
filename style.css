@@ -393,7 +393,7 @@ h1 {
     background: #ff6c98;
     position: fixed; /* Change to fixed position */
     right: -10px;
-    top: 50%; /* Vertically align to the center */
+    top: 32%; /* Vertically align to the center */
     transform: translateY(-50%); /* Correct for vertical alignment */
     display: flex;
     flex-direction: column;
